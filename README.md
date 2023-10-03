@@ -55,13 +55,6 @@ Let's connect and create amazing digital experiences together! Feel free to reac
 
 [![Google Cloud Platform](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-cloud/googlecloud.svg)](https://cloud.google.com/)&nbsp; &nbsp; [![MongoDB](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-cloud/mongodb.svg)](https://www.mongodb.com/)
 
-## Side projects
-
-1. [YatraYojana](https://yatrayojana.com/) - Website that aims to make Nepal local bustimetable available online.
-2. [khajahuis](http://khajahuis.nl/) - Startup Nepalese restaurants in Eindhoven, the Netherlands
-4. [Tapovumi](https://tapovumi.org/) - Nepal saving and credit organisation website
-5. [Stadspartij](https://www.stadspartij.org/) - Netherlands city political party website
-
 ## Resources
 
 * Simple Icons - [Find out more](https://simpleicons.org/)
