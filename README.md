@@ -1,16 +1,16 @@
-# Hello there, I'm Binod! 👋
+# Hello there, I'm Peter! 👋
 
-## About Me
+## Introduce Myself
 
-I'm a dedicated Frontend Developer on a mission to craft visually appealing and user-friendly web experiences. My journey in the world of web development is an ongoing adventure, and I'm enthusiastic about learning and mastering various aspects of this ever-evolving field.
+I'm a dedicated Full-Stack Developer on a mission to craft visually appealing and user-friendly web experiences. My journey in the world of web development is an ongoing adventure, and I'm enthusiastic about learning and mastering various aspects of this ever-evolving field.
 
-## What I'm Currently Up To
+## What I'm working on now
 
-🌱 Currently, I'm immersed in a journey of continuous learning, exploring the latest trends, tools, and technologies in the realm of web development. My goal is to stay at the forefront of this dynamic industry.
+🌱 Currently, I'm immersed in a journey of continuous learning, exploring the latest trends, tools, and technologies in the realm of web development. My goal is to stay at the full-stack of this dynamic industry.
 
-🤝 I'm always open to connecting with fellow professionals, especially UI/UX designers and tech enthusiasts. Collaborating with diverse minds helps me broaden my horizons and create innovative solutions.
+🤝 I'm always open to connecting with fellow professionals, especially software & full-stack developers, UI/UX designers and tech enthusiasts. Collaborating with diverse minds helps me broaden my horizons and create innovative solutions.
 
-⚡ Fun Fact: When I'm not coding, you can find me trying to strum a tune on my guitar. I might not be a pro yet, but the journey of learning is as enjoyable as the destination! 😂
+⚡ Fun Fact: When I'm not coding, you can find me trying to strum a tune on my guitar! 😂
 
 Let's connect and create amazing digital experiences together! Feel free to reach out. 📫
 
