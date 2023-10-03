@@ -17,13 +17,6 @@ Let's connect and create amazing digital experiences together! Feel free to reac
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=pireshagan&label=Profile%20views&color=0e75b6&style=flat" alt="pireshagan" /> 
 </p>
-
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=pireshagan" alt="pireshagan" />
-    </a> 
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/peter wang" target="blank">
