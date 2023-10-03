@@ -16,44 +16,44 @@ Let's connect and create amazing digital experiences together! Feel free to reac
 
 ## Connect with me
 
-[![binodnepali](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/public.svg)](https://binodnepali.me/)&nbsp; &nbsp; [![Binod Nepali | LinkedIn](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/linkedin.svg)](https://www.linkedin.com/in/binod-nepali-2b0962b8)&nbsp; &nbsp; [![GitLab](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/gitlab.svg)](https://gitlab.com/binodnepali)
+[![PiresHagan](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/css-frameworks/open-props.svg)](https://PiresHagan.me/)&nbsp; &nbsp; [![Binod Nepali | LinkedIn](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/linkedin.svg)](https://www.linkedin.com/in/binod-nepali-2b0962b8)&nbsp; &nbsp; [![GitLab](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/gitlab.svg)](https://gitlab.com/PiresHagan)
 
 ## Web foundation
 
-[![HTML](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/html5.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp; &nbsp; [![CSS](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp; &nbsp; [![SASS](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/sass.svg)](https://sass-lang.com/)&nbsp; &nbsp; [![Javascript](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp; &nbsp; [![Typescript](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-foundation/typescript.svg)](https://www.typescriptlang.org/)
+[![HTML](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-foundation/html5.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)&nbsp; &nbsp; [![CSS](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-foundation/css3.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)&nbsp; &nbsp; [![SASS](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-foundation/sass.svg)](https://sass-lang.com/)&nbsp; &nbsp; [![Javascript](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-foundation/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp; &nbsp; [![Typescript](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-foundation/typescript.svg)](https://www.typescriptlang.org/)
 
 ## Runtimes
 
-[![Node.js](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-backend/node.svg)](https://nodejs.org/)&nbsp; &nbsp; [![Deno](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-backend/deno.svg)](https://deno.land/)
+[![Node.js](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-backend/node.svg)](https://nodejs.org/)&nbsp; &nbsp; [![Deno](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-backend/deno.svg)](https://deno.land/)
 
 ## Frontend UI library & framework
 
-[![React](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-frontend/react.svg)](https://reactjs.org/)&nbsp; &nbsp; [![Vue](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-frontend/vue.svg)](https://vuejs.org/)&nbsp; &nbsp; 
+[![React](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-frontend/react.svg)](https://reactjs.org/)&nbsp; &nbsp; [![Vue](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-frontend/vue.svg)](https://vuejs.org/)&nbsp; &nbsp; 
 
 ## Design component framework
 
-[![MaterialUI](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/design-component-libraries/mui.svg)](https://mui.com/)&nbsp; &nbsp; [![Vuetify](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/design-component-libraries/vuetify.svg)](https://vuetifyjs.com/)
-&nbsp; [![DaisyUI](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/design-component-libraries/daisyui.svg)](https://daisyui.com)
+[![MaterialUI](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/design-component-libraries/mui.svg)](https://mui.com/)&nbsp; &nbsp; [![Vuetify](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/design-component-libraries/vuetify.svg)](https://vuetifyjs.com/)
+&nbsp; [![DaisyUI](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/design-component-libraries/daisyui.svg)](https://daisyui.com)
 
 ## Frontend testing framework
 
-[![Cypress](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/testing-frameworks/cypress.svg)](https://www.cypress.io/)&nbsp; &nbsp; [![Playwright](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/testing-frameworks/playwright.svg)](https://playwright.dev/)
+[![Cypress](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/testing-frameworks/cypress.svg)](https://www.cypress.io/)&nbsp; &nbsp; [![Playwright](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/testing-frameworks/playwright.svg)](https://playwright.dev/)
 
 ## CSS framework
 
-[![TailwindCSS](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/css-frameworks/tailwindcss.svg)](https://tailwindcss.com/) &nbsp; &nbsp; [![Open Props](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/css-frameworks/open-props.svg)](https://open-props.style/)
+[![TailwindCSS](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/css-frameworks/tailwindcss.svg)](https://tailwindcss.com/) &nbsp; &nbsp; [![Open Props](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/css-frameworks/open-props.svg)](https://open-props.style/)
 
 ## Backend framework
 
-[![Express.js](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-backend/express.svg)](https://expressjs.com/) &nbsp; &nbsp; [![fastify](./assets/icons/skills-backend/fastify.svg)](https://fastify.dev/) &nbsp; &nbsp; [![GraphQL](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-backend/graphql.svg)](https://graphql.org/)
+[![Express.js](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-backend/express.svg)](https://expressjs.com/) &nbsp; &nbsp; [![fastify](./assets/icons/skills-backend/fastify.svg)](https://fastify.dev/) &nbsp; &nbsp; [![GraphQL](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-backend/graphql.svg)](https://graphql.org/)
 
 ## Fullstack framework
 
-[![Next](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-fullstack/next.svg)](https://nextjs.org/)&nbsp; &nbsp; [![Nuxt](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-fullstack/nuxt.svg)](https://nuxt.com/) &nbsp; &nbsp; [![Fresh](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-fullstack/fresh.svg)](https://fresh.deno.dev/)
+[![Next](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-fullstack/next.svg)](https://nextjs.org/)&nbsp; &nbsp; [![Nuxt](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-fullstack/nuxt.svg)](https://nuxt.com/) &nbsp; &nbsp; [![Fresh](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-fullstack/fresh.svg)](https://fresh.deno.dev/)
 
 ## Cloud
 
-[![Google Cloud Platform](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-cloud/googlecloud.svg)](https://cloud.google.com/)&nbsp; &nbsp; [![MongoDB](https://raw.githubusercontent.com/binodnepali/binodnepali/main/assets/icons/skills-cloud/mongodb.svg)](https://www.mongodb.com/)
+[![Google Cloud Platform](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-cloud/googlecloud.svg)](https://cloud.google.com/)&nbsp; &nbsp; [![MongoDB](https://raw.githubusercontent.com/PiresHagan/PiresHagan/main/assets/icons/skills-cloud/mongodb.svg)](https://www.mongodb.com/)
 
 ## Resources
 
