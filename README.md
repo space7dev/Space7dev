@@ -1,4 +1,9 @@
 # Hello there, I'm Peter! 👋
+<p align="center">
+    <a href="javascript:;">
+        <img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Software+Engineering+Undergraduate;🙏🏻+Full+Stack+Software+Developer;Web,+Mobile+Development;DS%20|%20AI%20|%20ML%20Enthusiast;&center=true&width=500&height=50">
+    </a>
+</p>
 
 ## Introduce Myself
 
@@ -17,13 +22,20 @@ Let's connect and create amazing digital experiences together! Feel free to reac
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=pireshagan&label=Profile%20views&color=0e75b6&style=flat" alt="pireshagan" /> 
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left">
     <a href="https://linkedin.com/in/peter wang" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter wang" height="30" width="40" />
     </a>
+</p> -->
+<h3 align="left">Support:</h3>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pireshagan&show_icons=true&locale=en&layout=compact" alt="pireshagan" />
 </p>
-
+<p>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pireshagan&show_icons=true&locale=en" alt="pireshagan" />
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -280,25 +292,6 @@ Let's connect and create amazing digital experiences together! Feel free to reac
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
     </a> 
 </p>
-
-
-<h3 align="left">Support:</h3>
-<p>
-    <a href="https://www.buymeacoffee.com/peter"> 
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="peter" />
-    </a>
-</p>
 <br><br>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pireshagan&show_icons=true&locale=en&layout=compact" alt="pireshagan" />
-</p>
 
-<p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pireshagan&show_icons=true&locale=en" alt="pireshagan" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pireshagan&" alt="pireshagan" />
-</p>
