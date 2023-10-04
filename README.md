@@ -145,7 +145,7 @@ Let's connect and create amazing digital experiences together! Feel free to reac
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40"/> 
     </a> 
 </p>
-<p align="left"> 
+<!-- <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     </a> 
@@ -296,7 +296,7 @@ Let's connect and create amazing digital experiences together! Feel free to reac
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> 
     </a> 
-</p>
+</p> -->
 <br><br>
 
 
