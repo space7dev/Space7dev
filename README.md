@@ -1,4 +1,4 @@
-# Hello there, I'm Peter! 👋
+# Hello there, I'm 🤗 Apollo7! 👋
 <p align="center">
     <a href="javascript:;">
         <img src="https://readme-typing-svg.herokuapp.com?lines=👨🏻‍🎓+Software+Engineering+Undergraduate;🙏🏻+Full+Stack+Software+Developer;Web,+Mobile+Development;DS%20|%20AI%20|%20ML%20Enthusiast;&center=true&width=500&height=50">
