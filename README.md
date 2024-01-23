@@ -12,9 +12,9 @@ I'm a dedicated Full-Stack Developer & Engineer on a mission to craft visually a
 <h2>Contact me :postbox:</h2>
 <div>
   <a href="https://t.me/k90fox"><i class="lab la-twitter"></i></a>
-  <a href = "mailto:dev09fox@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://join.skype.com/invite/mIIw5ceFoWgs" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/k90fox" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:apollot7dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://join.skype.com/invite/GM9asEVrMb3r" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/b7dev" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
 
 ## What I'm working for now
