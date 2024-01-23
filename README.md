@@ -9,6 +9,14 @@
 
 I'm a dedicated Full-Stack Developer & Engineer on a mission to craft visually appealing and user-friendly web experiences. My journey in the world of web development is an ongoing adventure, and I'm enthusiastic about learning and mastering various aspects of this ever-evolving field.
 
+<h2>Contact me :postbox:</h2>
+<div>
+  <a href="https://t.me/k90fox"><i class="lab la-twitter"></i></a>
+  <a href = "mailto:dev09fox@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://join.skype.com/invite/mIIw5ceFoWgs" target="_blank"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/k90fox" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+</div>
+
 ## What I'm working for now
 
 🌱 Currently, I'm immersed in a journey of continuous learning, exploring the latest trends, tools, and technologies in the realm of software development. My goal is to stay at the forefront of this dynamic industry.
