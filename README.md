@@ -82,14 +82,8 @@ Let's connect and create amazing digital experiences together! Feel free to reac
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-    </a>
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> 
-    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
-    </a> 
     <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="vuetify" width="40" height="40"/> 
     </a> 
