@@ -12,7 +12,7 @@ I'm a dedicated Full-Stack Developer & Engineer on a mission to craft visually a
 
 🌱 Currently, I'm immersed in a journey of continuous learning, exploring the latest trends, tools, and technologies in the realm of software development. My goal is to stay at the forefront of this dynamic industry.
 
-🤝 I'm always open to connecting with fellow professionals, especially DevOps, Software Engineers, UI/UX designers and tech enthusiasts. Collaborating with diverse minds helps me broaden my horizons and create innovative solutions.
+🤝 I'm always open to connecting with fellow professionals, especially DevOps, Software Engineers, UI/UX designers, and tech enthusiasts. Collaborating with diverse minds helps me broaden my horizons and create innovative solutions.
 
 ⚡ Fun Fact: When I'm not coding, you can find me trying to strum a tune on my guitar. 😂
 
@@ -32,8 +32,8 @@ Let's connect and create amazing digital experiences together! Feel free to reac
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pireshagan&show_icons=true&locale=en&layout=compact" alt="pireshagan" />
 </p>
 <p>
-    &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pireshagan&show_icons=true&locale=en" alt="pireshagan" />
+<!--     &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pireshagan&show_icons=true&locale=en" alt="pireshagan" /> -->
 </p>
 
 ## Languages and Skills:
