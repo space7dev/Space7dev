@@ -19,7 +19,7 @@ I'm a dedicated Full-Stack Developer & Engineer on a mission to craft visually a
 Let's connect and create amazing digital experiences together! Feel free to reach out. 📫
 
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=pireshagan&label=Profile%20views&color=0e75b6&style=flat" alt="pireshagan" /> 
+    <img src="https://komarev.com/ghpvc/?username=space7dev&label=Profile%20views&color=0e75b6&style=flat" alt="space7dev" /> 
 </p>
 <!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left">
@@ -29,11 +29,11 @@ Let's connect and create amazing digital experiences together! Feel free to reac
 </p> -->
 <h2 align="left">Support:</h2>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pireshagan&show_icons=true&locale=en&layout=compact" alt="pireshagan" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=space7dev&show_icons=true&locale=en&layout=compact" alt="space7dev" />
 </p>
 <p>
 <!--     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pireshagan&show_icons=true&locale=en" alt="pireshagan" /> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=space7dev&show_icons=true&locale=en" alt="space7dev" /> -->
 </p>
 
 ## Languages and Skills:
